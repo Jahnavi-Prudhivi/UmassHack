@@ -22,6 +22,8 @@ Our system:
 
 ---
 
+DEMO VIDEO LINK: https://drive.google.com/file/d/1z5NFGEtjW_7V4KNjXR1rBofghgYUgjty/view?usp=sharing
+
 ## Project Structure
 
 
