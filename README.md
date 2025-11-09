@@ -10,6 +10,9 @@ Our system:
 4. **Generates expressive speech** using **ElevenLabs API**.
 
 ---
+##Demo Video Link: 
+https://drive.google.com/file/d/1z5NFGEtjW_7V4KNjXR1rBofghgYUgjty/view?usp=sharing
+
 
 ## Key Components
 | Module | Function | Tools/Libraries |
@@ -21,8 +24,6 @@ Our system:
 | **Optional Deployment** | Portable device version | Raspberry Pi 5 or 4 with Pi Camera |
 
 ---
-
-DEMO VIDEO LINK: https://drive.google.com/file/d/1z5NFGEtjW_7V4KNjXR1rBofghgYUgjty/view?usp=sharing
 
 ## Project Structure
 
